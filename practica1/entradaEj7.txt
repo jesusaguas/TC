@@ -1,0 +1,4 @@
+Esto es el mensaje 210
+100 es 8 en binario 
+y este el 2: 10
+por ultimo un 1000 y 484

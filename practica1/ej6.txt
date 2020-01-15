@@ -1,0 +1,5 @@
+egrep '[0-9].*[0-9]' t1.txt
+
+egrep  '^([^aeiou]*([aeiou][^aeiou]*[aeiou])*[^aeiou]*)*$'    t1.txt
+
+egrep '[13579][^0-9]*' t1.txt
