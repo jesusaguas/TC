@@ -1,0 +1,17 @@
+/*
+
+Entrada de prueba para el ejercicio 2, utilizando int, char, float, String, y otro int.
+
+*/
+
+#include iostream
+#include iomanip
+import Holaqtal 	//comentario utilizando import
+
+int main(){
+	char &letra = a;
+	String Hello = "Hello";
+	"float & pi = 3.141592;"
+	int& cuatro = 4;
+	return fin;
+}
